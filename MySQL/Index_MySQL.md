@@ -1,9 +1,10 @@
 - MySQL
     - MySQL CLI
-        - [Permissões](https://github.com/andrebmachadoo/Estudos)
-        - [Dump](https://github.com/andrebmachadoo/Estudos)
+        - [Permissões](https://github.com/andrebmachadoo/Estudos/blob/master/MySQL/mysql_privileges.md)
+        - [Dump](https://github.com/andrebmachadoo/Estudos/blob/master/MySQL/mysql_Dump.md)
     - SQL
-        - [Numeros sequenciais]()
-        - [Tabela temporária]()
+        - [Numeros sequenciais](https://github.com/andrebmachadoo/Estudos/blob/master/MySQL/mysql_sequencial_number.md)
+        - [Tabela temporária](https://github.com/andrebmachadoo/Estudos/blob/master/MySQL/mysql_temptable.md)
+        - [Before After id](https://github.com/andrebmachadoo/Estudos/blob/master/MySQL/mysql_BeforeAfterid.md)
     - Functions
-        - [Valida CPF]()
+        - [Valida CPF](https://github.com/andrebmachadoo/Estudos/blob/master/MySQL/functions/mysql_func_cpfvalidate.md)

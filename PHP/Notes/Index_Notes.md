@@ -1,0 +1,1 @@
+- [Closure](https://github.com/andrebmachadoo/Estudos/blob/master/PHP/Notes/Closures.md)
