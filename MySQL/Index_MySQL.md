@@ -1,0 +1,9 @@
+- MySQL
+    - MySQL CLI
+        - [Permissões](https://github.com/andrebmachadoo/Estudos)
+        - [Dump](https://github.com/andrebmachadoo/Estudos)
+    - SQL
+        - [Numeros sequenciais]()
+        - [Tabela temporária]()
+    - Functions
+        - [Valida CPF]()
